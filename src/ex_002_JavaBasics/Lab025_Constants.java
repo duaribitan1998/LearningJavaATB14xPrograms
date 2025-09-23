@@ -8,7 +8,7 @@ public class Lab025_Constants {
         // b = 99, java: cannot assign a value to final variable b
         // final is not a data type its a keyword
     final int b = 99;
-    b = 100;
+   // b = 100;
 
     }
 }

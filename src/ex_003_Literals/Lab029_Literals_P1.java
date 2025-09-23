@@ -1,4 +1,4 @@
-package ex_002_JavaBasics;
+package ex_003_Literals;
 
 public class Lab029_Literals_P1 {
     public static void main(String[] args) {
@@ -8,7 +8,7 @@ public class Lab029_Literals_P1 {
         final float pi = 3.14f;
         // Literal = Float
         final int age_girl = 19;
-        age_girl = 20;
+        //age_girl = 20;
 
         // No we cant change age_girl because of final keyword
     }
