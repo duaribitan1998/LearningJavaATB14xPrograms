@@ -1,4 +1,4 @@
-package ex_002_JavaBasics;
+package ex_004_Operators;
 
 public class Task_Table_Of_9_Using_PrintF {
     public static void main(String[] args) {
